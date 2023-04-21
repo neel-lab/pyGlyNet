@@ -1,5 +1,5 @@
 # pyGlyNet
-## Classes
+## Classes and instance methods
 ### Monosaccharide
 *.isMono*: Boolean, if it is a monosaccharide<br/>
 *.mlong*: String with Hex, HexNAc representation<br/>
